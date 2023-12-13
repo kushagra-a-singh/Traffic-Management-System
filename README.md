@@ -1,6 +1,6 @@
 # Traffic-Management-System
------ Smart Traffic Management System -----
-Managing the record of Vehicles
+----- Smart Traffic Management System -----\n
+Managing the record of Vehicles\n
 Managing the record of Challans
 Search the record of Vehicles
 Display information of Traffic in Control Booths
