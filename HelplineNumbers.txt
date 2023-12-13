@@ -1,0 +1,11 @@
+100 - Police
+102 - Ambulance
+108 - Fire Department
+109 - Traffic Police
+0755-2412345 - Traffic Management Center
+0755-2551234 - Hamidia Hospital
+0755-2665432 - Chirayu Hospital
+0755-2779630 - People's Hospital
+0712-2551234 - Government Medical College and Hospital, Nagpur
+0712-2665432 - Orange City Hospital
+0712-2779630 - Wockhardt Hospital
