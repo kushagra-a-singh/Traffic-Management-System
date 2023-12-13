@@ -1,0 +1,14 @@
+Hospital Name: Hamidia Hospital
+Address: Hamidia Road, Bhopal, Madhya Pradesh, India
+Contact Information: +91 755 255 1234
+Website: https://www.hamidiahospitalbhopal.com/
+
+Hospital Name: Chirayu Hospital
+Address: 44, Chirayu Marg, Bhopal, Madhya Pradesh 462016, India
+Contact Information: +91 755 266 5432
+Website: https://www.chirayuhospital.com/
+
+Hospital Name: People's Hospital
+Address: 103, Jawahar Marg, Bhopal, Madhya Pradesh 462001, India
+Contact Information: +91 755 277 9630
+Website: https://www.peopleshospitalbhopal.com/
